@@ -26,7 +26,7 @@
     -*injury location:* back have the highest record injury of 55%, while neck have the record of the lowet injury 0f 30%
 
     ##Tools and Technologies
-    - **Excel** Dashboard design and data visualization
+    - **Excel** Dashboard design and data visualisation
 
       ## Dashboard preview
       
