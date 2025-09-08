@@ -29,7 +29,7 @@
     - **Excel** Dashboard design and data visualisation
 
       ## Dashboard preview
-      ![Key safety Dashboard](CapStoneProjectDashboard.xlsx)
+      ![Final Key safety metrice.png](CapStoneProjectDashboard.xlsx)
 
       ## Authour
       **Ibrahim Alabi**
