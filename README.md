@@ -29,5 +29,12 @@
     - **Excel** Dashboard design and data visualisation
 
       ## Dashboard preview
+      ![Key safety Dashboard].(Dashbord.png)
+
+      ## Authour
+      **Ibrahim Alabi**
+      **Linkedin:** (https://lnkd.in/dVvMms9R)
+      **Email:** (ibrahimalabi74@gmail.com)
+      
       
     
